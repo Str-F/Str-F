@@ -2,18 +2,11 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=26610&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"  />
-</div>
-
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Str-F/Str-F/output/snake.svg" alt="Snake animation" />
+<a href="https://heatmap.shymike.dev?id=26610&timezone=Europe%2FBerlin&labels=true&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=26610&timezone=Europe%2FBerlin&labels=true&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=26610&timezone=Europe%2FBerlin&labels=true&theme=light">
+    </picture>
+</a>
 
 ###
